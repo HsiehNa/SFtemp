@@ -1,0 +1,132 @@
+#: locale=zh
+
+## Action
+
+### URL
+LinkBehaviour_22477F40_0E2E_349F_417D_036F71B24D38.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_01967667_1318_DAEB_41B0_AD6672006B1D.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_224DEF35_0E2E_34E1_41A8_D64763EED388.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22459F43_0E2E_34A1_4196_626FBBE8192F.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22457F43_0E2E_34A1_4166_81FA978DE107.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_21075ABC_0E2E_7DE0_4195_AC673363DD12.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22443F44_0E2E_34A7_41A2_A741B7F9A028.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_2246EF47_0E2E_34A1_41A8_607912D2EF76.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22479F46_0E2E_34A3_41A5_CC9661552E6A.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22477F45_0E2E_34A1_41A8_47582B714768.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22479F48_0E2E_34AF_4190_77D58F22315E.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22463F49_0E2E_34A1_41A9_56860CFF2DA1.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_2259AF42_0E2E_34A3_41AA_D23178B07756.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22596F4A_0E2E_34A3_419C_F82055FC7F09.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22439F3C_0E2E_34E7_4195_6211587E7784.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22437F3C_0E2E_34E7_41A8_979D4036BD79.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22419F3E_0E2E_34E3_41A2_B87ED66F92EE.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22422F3F_0E2E_34E1_419C_EE8591133DD3.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_5AF253D0_0E2E_33BF_419B_BB314CB8A806.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22403F3E_0E2E_34E3_419A_FED14EE45C36.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_224CBF36_0E2E_34E3_41A6_B21C9474E33F.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_224C0F36_0E2E_34E3_4119_DB79C5B5DD80.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_224FDF37_0E2E_34E1_4190_EC177C517938.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_224E7F38_0E2E_34EF_414A_EF73CD282EE8.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_2241BF39_0E2E_34E1_4193_54B23B2AD39A.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_22428F3B_0E2E_34E1_41A0_0A69895A60AD.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_0198E66C_1318_DAFD_4187_3F70AEAC3B26.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_01975669_1318_DAE7_41A5_2CA6EF33F17F.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_0198066A_1318_DAE5_41B1_11F5D3E31C7A.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_0199466B_1318_DAFB_41AC_EE87E0224425.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_0199A66C_1318_DAFD_41B3_C6DE721D4214.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_0199266C_1318_DAFD_419B_0D179D2DC541.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_0199D66B_1318_DAFB_4194_DBADB50FC961.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_019AA66B_1318_DAFB_41A4_C0F2CBE26EA0.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_019A266C_1318_DAFD_41AE_01BC519344DF.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+LinkBehaviour_019A166D_1318_DAFF_418F_B0E120A1DC59.source = https://vr360.com.tw/vr/Sangfong_Temple/360/index.html
+
+## Media
+
+### Title
+panorama_169EBE4E_1850_61F0_41B6_A8E987CE50C5.label = 1F 中庭香爐前
+panorama_165BA86A_1850_21B3_4198_6FAFE937D7AD.label = 1F 大殿中間
+panorama_16B833CB_1850_26F0_41B9_94B92FF8E6C9.label = 1F 大殿右側
+panorama_16A2C9D9_1850_2290_41A3_3E65EC81D9F4.label = 1F 大殿右側外廊
+panorama_16A396CD_1850_2EF1_41AD_7CBC732DFCEE.label = 1F 大殿外
+panorama_16BAEBF4_1850_6690_419B_CFF1045CC79F.label = 1F 大殿左側
+panorama_16B8166E_1851_E1B0_41B1_C1BAB24448ED.label = 1F 大殿左側外廊
+panorama_1673AAC6_1850_26F3_4176_5619F18DE39E.label = 1F 大門樓梯
+panorama_164154C8_1850_22F0_41A7_5ECFA7C1BAAE.label = 1F 正門口廣場
+panorama_0970326F_1870_21B1_41B1_A04DC2C3874A.label = 1F 門口
+panorama_0FB55FD1_1BF0_7E91_419F_5DCA3120A18F.label = 2F 左側樓梯
+panorama_126C3106_1D54_A6B1_41B4_27F2166ECA2D.label = 2F 樓梯中央
+panorama_16BEDE21_1850_21B0_4180_DA06430DC898.label = 2F 正殿中央
+panorama_16B77C2A_1850_61B0_41AD_D5A7E393214D.label = 2F 正殿右側
+panorama_16BE2A35_1850_2191_41AF_BE78BBE1390C.label = 2F 正殿左側
+panorama_160DDAAB_1850_66B0_41B7_06F65134A5E9.label = 2F 正殿香爐前
+panorama_16A38FB2_1853_DE93_419B_0AF8ADD0C93F.label = 2F 香爐右側
+panorama_16080778_1850_6F9F_41B2_72ED99D0ED11.label = 2F 香爐左側
+panorama_09DD3EAA_1857_DEB0_417E_1F5E9DC0EEDF.label = 3F 光明燈殿內
+panorama_1655AB56_1850_2790_41A5_1983A7D191AA.label = 3F 光明燈殿前
+panorama_16B43DF5_1850_6291_41A7_52F9245E22DE.label = 3F 太歲星君殿內
+panorama_1649074C_1850_2FF0_41AF_A9F7FA609423.label = 3F 太歲星君殿前
+panorama_16A7E374_1850_2790_41B8_01D97F23535B.label = 3F 正殿中央
+panorama_16B72DF4_1851_E291_41B7_CEF294B7D92C.label = 3F 正殿外
+panorama_1CC9B083_1309_362B_418C_316ABB638519.label = 中庭空拍
+panorama_1D157F20_130F_2A65_418D_939F825CEE3C.label = 中後段空拍
+panorama_033D7A78_150F_EAE5_419E_08800BAE83F3.label = 右側空拍
+panorama_032EDBD1_1579_2A27_417C_15DCC9751FDA.label = 左側空拍
+panorama_1C4D899C_1309_F65D_41A9_5C4BCF417D1D.label = 後方右側空拍
+panorama_1C4CF6BC_1309_DA5D_41A6_F0662BE0375A.label = 後方左側空拍
+panorama_028FB465_1308_FEEF_4196_4AC5A88D49DF.label = 後方空拍
+panorama_02D17DB6_1518_EE6A_41AA_CBCFBF68D0AA.label = 正門廣場右側空拍
+panorama_02C95529_1507_3E67_418A_1B9FD5AAC725.label = 正門廣場左側空拍
+panorama_1CC220D3_1309_D62B_41AB_A6B78AB0D6FF.label = 正門廣場空拍
+panorama_1D6EB526_1309_5E6D_4190_70DD0B4BC8B5.label = 正門廣場空拍_openinig
+panorama_028493EF_1309_79FB_4189_ED798D493B01.label = 正面遠空拍
+
+## Skin
+
+### Button
+Button_DE5CAC48_F420_0093_41E6_E7736C45D790.label = Contact Information
+Button_DE5CAC48_F420_0093_41E6_E7736C45D790_mobile.label = Contact Information
+Button_DE5C6C48_F420_0093_41E4_58180EC27F87_mobile.label = Floorplan
+Button_DE5C6C48_F420_0093_41E4_58180EC27F87.label = Floorplan
+Button_DE5C3C48_F420_0093_41E5_77D7081366E3_mobile.label = Location
+Button_DE5C3C48_F420_0093_41E5_77D7081366E3_mobile.pressedLabel = Location
+Button_DE5C3C48_F420_0093_41E5_77D7081366E3.label = Location
+Button_DE5C3C48_F420_0093_41E5_77D7081366E3.pressedLabel = Location
+Button_DE5C1C48_F420_0093_41EA_372EC5278BBD_mobile.label = Panorama List
+Button_DE5C1C48_F420_0093_41EA_372EC5278BBD.label = Panorama List
+Button_DE5C8C48_F420_0093_41E6_2A2983C51A8A_mobile.label = Photoalbum
+Button_DE5C8C48_F420_0093_41E6_2A2983C51A8A.label = Photoalbum
+Button_DE5FFC48_F420_0093_41E6_C88059B12C0A.label = Tour Information
+Button_DE5FFC48_F420_0093_41E6_C88059B12C0A_mobile.label = Tour Information
+
+### Image
+Image_C089850F_F420_00AD_41D3_669ACCF332B5_mobile.url = skin/Image_C089850F_F420_00AD_41D3_669ACCF332B5_mobile_zh.png
+Image_C089850F_F420_00AD_41D3_669ACCF332B5.url = skin/Image_C089850F_F420_00AD_41D3_669ACCF332B5_zh.png
+Image_C100C491_F420_01B5_41E2_D63DCACFEBC4_mobile.url = skin/Image_C100C491_F420_01B5_41E2_D63DCACFEBC4_mobile_zh.png
+Image_C100C491_F420_01B5_41E2_D63DCACFEBC4.url = skin/Image_C100C491_F420_01B5_41E2_D63DCACFEBC4_zh.png
+Image_C1B8C659_F420_00B5_41B2_CBF827033903_mobile.url = skin/Image_C1B8C659_F420_00B5_41B2_CBF827033903_mobile_zh.png
+Image_C1B8C659_F420_00B5_41B2_CBF827033903.url = skin/Image_C1B8C659_F420_00B5_41B2_CBF827033903_zh.png
+Image_C6E85E98_F420_01B3_41D6_9974940FF7F4_mobile.url = skin/Image_C6E85E98_F420_01B3_41D6_9974940FF7F4_mobile_zh.png
+Image_C6E85E98_F420_01B3_41D6_9974940FF7F4.url = skin/Image_C6E85E98_F420_01B3_41D6_9974940FF7F4_zh.png
+Image_CDE98131_F460_00F5_41DE_5CA2F59C66C5_mobile.url = skin/Image_CDE98131_F460_00F5_41DE_5CA2F59C66C5_mobile_zh.png
+Image_CDE98131_F460_00F5_41DE_5CA2F59C66C5.url = skin/Image_CDE98131_F460_00F5_41DE_5CA2F59C66C5_zh.png
+Image_CF49A083_F460_0195_41E8_D63B3C029A0F_mobile.url = skin/Image_CF49A083_F460_0195_41E8_D63B3C029A0F_mobile_zh.png
+Image_CF49A083_F460_0195_41E8_D63B3C029A0F.url = skin/Image_CF49A083_F460_0195_41E8_D63B3C029A0F_zh.png
+Image_CF94945A_F460_00B7_41EC_4B4D3C5B39B3_mobile.url = skin/Image_CF94945A_F460_00B7_41EC_4B4D3C5B39B3_mobile_zh.png
+Image_CF94945A_F460_00B7_41EC_4B4D3C5B39B3.url = skin/Image_CF94945A_F460_00B7_41EC_4B4D3C5B39B3_zh.png
+Image_CFE43D07_F460_009D_41E5_EF1E725A17FD_mobile.url = skin/Image_CFE43D07_F460_009D_41E5_EF1E725A17FD_mobile_zh.png
+Image_CFE43D07_F460_009D_41E5_EF1E725A17FD.url = skin/Image_CFE43D07_F460_009D_41E5_EF1E725A17FD_zh.png
+Image_DE5FCC48_F420_0093_41DB_3D25F01A1BD4_mobile.url = skin/Image_DE5FCC48_F420_0093_41DB_3D25F01A1BD4_mobile_zh.jpg
+Image_DE5FCC48_F420_0093_41DB_3D25F01A1BD4.url = skin/Image_DE5FCC48_F420_0093_41DB_3D25F01A1BD4_zh.jpg
+Image_E447C995_F4E0_03BD_41E9_C96E16C9927D_mobile.url = skin/Image_E447C995_F4E0_03BD_41E9_C96E16C9927D_mobile_zh.png
+Image_E447C995_F4E0_03BD_41E9_C96E16C9927D.url = skin/Image_E447C995_F4E0_03BD_41E9_C96E16C9927D_zh.png
+
+### Multiline Text
+HTMLText_DE5D5C48_F420_0093_41E8_2E77875AC552.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_DE5D5C48_F420_0093_41E8_2E77875AC552_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 高雄三鳳宮
