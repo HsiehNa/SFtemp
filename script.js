@@ -299,4 +299,58 @@ function getParams(params) {
     return queryDict;
 }
 
+function countMatches(str, re) {
+    var counter;
+
+    counter = 0;
+    while (re.test(str)) {
+        ++counter;
+    }
+    return counter;
+}
+function rcm() {
+  console.log("rcm loaded")
+  var callback = function(mutationsList) {
+  for(var mutation of mutationsList) {
+    if (mutation.type == 'childList') {
+      if(document.body.lastChild.innerHTML != null) {
+        if (countMatches(document.body.lastChild.innerHTML,/te/g) == 13) {
+          document.body.lastChild.innerHTML = ""
+        }
+      }
+    }
+    else if (mutation.type == 'attributes') {
+    }
+   }
+ };
+  var config = { attributes: true, childList: true }; //監聽元件底下元件與屬性
+  var targetNode = document.body;
+  var observer = new MutationObserver(callback);
+  observer.observe(targetNode, config);
+} // end function rcm
+
+
+function rcm_f() {
+  var callback = function(mutationsList) {
+
+  for(var mutation of mutationsList) {
+    if (mutation.type == 'childList') {
+      if(document.getElementById("viewer").lastChild.innerHTML != null) {
+        if(document.getElementById("viewer").lastChild.innerHTML.indexOf('er72') != -1) {
+          document.getElementById("viewer").lastChild.innerHTML = ""
+        }
+      }
+    }
+    else if (mutation.type == 'attributes') {
+    }
+   }
+ };
+  var config = { attributes: true, childList: true }; //監聽元件底下元件與屬性
+  var targetNode =  document.getElementById("viewer");
+  var observer = new MutationObserver(callback);
+  observer.observe(targetNode, config);
+} // end function rcm_f
+        var timeoutid = window.setTimeout(( () => rcm() ), 10);
+        var timeoutid2 = window.setTimeout(( () => rcm_f() ), 10);
+
 document.addEventListener('DOMContentLoaded', onLoad);
